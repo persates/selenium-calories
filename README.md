@@ -37,11 +37,6 @@ This project is a smart web automation tool built with **Python**, **Selenium**,
 
 This tool was built out of curiosity, efficiency, and a passion for combining **automation** with **nutrition**. Perfect for developers who love clean data — and food.
 
----
-
-### 👨‍💻 Author
-
-Abdulkadir | [LinkedIn](#) | [Portfolio](#)  
 *Turning everyday tasks into automated masterpieces.*
 
 ---
